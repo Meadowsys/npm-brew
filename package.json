@@ -1,0 +1,14 @@
+{
+	"name": "npm-brew",
+	"version": "1.0.0",
+	"description": "a npm registry server that takes brew packages and turns them into npm packages, consumable by package managers such as pnpm (speeeeeeeeeeeeeeeeed)",
+	"scripts": {
+		"dev": "nitropack dev",
+		"build": "nitropack build"
+	},
+	"author": "Autumn Meadow (autumnblazey)",
+	"license": "AGPL-3.0-only",
+	"devDependencies": {
+		"nitropack": "^1.0.0"
+	}
+}
